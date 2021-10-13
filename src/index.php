@@ -8,7 +8,7 @@
   <body>
     <?php include 'components/header.php';?>
     <div class="page-wrapper">
-      <h1>Accueil</h1>
+      <h1>nueve meilleur joeuur du monde</h1>
     </div>
   </body>
 </html>

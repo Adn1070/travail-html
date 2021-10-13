@@ -13,14 +13,14 @@
       <li><a <?php
       if(basename($_SERVER['PHP_SELF']) == 'nous.php') {
         echo "class=\"active\"";
-      }?> href="/nous.php">Qui est Benzema</a></li>
+      }?> href="/nous.php">Qui est Benzema ?</a></li>
     </ul>
   </nav>
   <div class="logo serif">
     <span></span>
   </div>
   <div class="social-networks">
-    <a href="https://twitter.com/Adnane1070" target="_blank">
+    <a href="https://twitter.com/Benzema" target="_blank">
       <img src="/assets/twitter.png" alt="twitter-network">
     </a>
   </div>
