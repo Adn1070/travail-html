@@ -2,7 +2,7 @@
 Travail en php dans le cadre du cours de Langages orientés web [1eBABCDEFLMN+MES] [B1221] [2021] à l'Ephec pour le professeur TURRIN Stéphane
 
 ## Lien vers le site
-[lien vers le site](https://he128589.lpow.ephec.be/)
+[Lien vers le site](https://he128589.lpow.ephec.be/)
 
 ## Date limite
 Lundi 18 octobre, 23:00
